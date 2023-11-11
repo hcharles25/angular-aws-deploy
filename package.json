@@ -1,5 +1,5 @@
 {
-    "name": "node-casperjs-aws-lambda",
+    "name": "node-aws-lambda",
     "version": "1.0.2",
     "description": "The bare minimum for a casperjs/phantomjs app running on Amazon Lambda.",
     "main": "index.js",

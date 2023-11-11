@@ -1,10 +1,3 @@
-# CasperJS AWS Lambda Template
-
-A [CasperJS](http://casperjs.org/) node.js app for [Amazon Lambda](http://aws.amazon.com/lambda/).
-Based on [node-lambda-template](https://github.com/rebelmail/node-lambda-template) using [node-lambda](https://github.com/rebelmail/node-lambda).
-The app includes a [PhantomJS](http://phantomjs.org/) binary (i.e., in the `/bin/` directory named: `phantomjs`) compiled for AWS Linux (https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.8-linux-x86_64.tar.bz2).
-
-**Note:** If you want to use different PhantomJS binary in your project, then you will be need to download a latest binary from [here](https://bitbucket.org/ariya/phantomjs/downloads/) and replace it with `/bin/phantomjs` (i.e., Make sure you keep the name as is for now).
 
 ## Table of Contents
 
@@ -18,10 +11,6 @@ The app includes a [PhantomJS](http://phantomjs.org/) binary (i.e., in the `/bin
 ## Installation
 
 Clone the project:
-
-```shell
-$ git clone https://github.com/narainsagar/node-casperjs-aws-lambda.git
-```
 
 Install dependencies using npm. It'll install the AWS SDK as well as PhantomJS on the development machine.
 
@@ -128,27 +117,7 @@ This describes the app directory structure & conventions.
 └── ...                         # etc
 ```
 
-## Contributing
-
-- Star our [GitHub Repository](https://github.com/narainsagar/node-casperjs-aws-lambda) ⭐
-- Fork our [GitHub Repository](https://github.com/narainsagar/node-casperjs-aws-lambda) 👈
-- Create [pull requests](https://github.com/narainsagar/node-casperjs-aws-lambda/pulls), [submit bugs](https://github.com/narainsagar/node-casperjs-aws-lambda/issues), suggest new features or documentation updates 🔧
-
-## About Me
-
-> My name is **Narain Sagar**, I’m a FullStack JavaScript Developer, lives in  Karachi, Pakistan and pretty much enjoying my life.
-
-![@narainsagar](https://avatars0.githubusercontent.com/narainsagar?&s=128)
-
 ### Follow Me 👍
-
-[Medium](http://blog.narainsagar.com/) | 
-[Website](http://narainsagar.com/) | 
-[Twitter](https://twitter.com/narainsagar) | 
-[LinkedIn](https://www.linkedin.com/pk/narainsagar) | 
-[Facebook](https://facebook.com/NarainSagarPage) | 
-[Github](https://github.com/narainsagar) | 
-[Stack Overflow](https://www.stackoverflow.com/users/5228251/narainsagar)
 
 ## License
 
